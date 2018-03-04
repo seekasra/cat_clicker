@@ -1,5 +1,4 @@
 window.onload = function(){
-	var cat1 = "Pilav"
 	var cat2 = "Melav"
 	document.getElementById("cat1_name").innerHTML = cat1;
 	document.getElementById("cat2_name").innerHTML = cat2;
